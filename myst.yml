@@ -21,7 +21,7 @@ project:
     - file: chapters/02-elementos de programacion.ipynb
     - file: chapters/03-modelos por ajuste.ipynb
     - file: chapters/04_modelos_de_cambios_discretos.ipynb
-    - file: chapters/05-Modelos de cambio continuo.ipynb
+    - file: chapters/05_Modelos_de_cambio_continuo.ipynb
     - file: chapters/06_Modelos_de_poisson.ipynb
     - file: chapters/07_Modelo_estocasticos_de_Markov.ipynb
   
