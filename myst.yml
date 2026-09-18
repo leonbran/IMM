@@ -17,11 +17,13 @@ project:
         
   toc:
     - file: intro.md
-    - file: chapters/01_introduccion_al_modelamiento.ipynb
-    - file: chapters/02_elementos_de_programacion.ipynb
-    - file: chapters/03_modelos_por_ajuste.ipynb
-    - file: chapters/04_modelos_de_cambios_discretos.ipynb
-    - file: chapters/05_Modelos_de_cambio_continuo.ipynb
+    - file: chapters/01-introduccion al modelamiento.ipynb
+    - file: chapters/02-elementos de programacion.ipynb
+    - file: chapters/03-modelos por ajuste.ipynb
+    - file: chapters/04-modelos de cambios discretos.ipynb
+    - file: chapters/05-Modelos de cambio continuo.ipynb
+    - file: chapters/06-Modelos_de poisson.ipynb
+    - file: chapters/07-Modelo estocasticos de Markov.ipynb
   
 
 site:
